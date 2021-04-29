@@ -1,2 +1,2 @@
-# Day schedule
+# Will be written on python
  
