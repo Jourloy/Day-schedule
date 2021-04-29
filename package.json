@@ -1,0 +1,13 @@
+{
+  "name": "day-schedule",
+  "version": "0.5.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "Jourloy",
+  "license": "",
+  "dependencies": {
+    "say": "^0.16.0"
+  }
+}
