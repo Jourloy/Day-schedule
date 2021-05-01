@@ -52,9 +52,9 @@ setInterval(() => {
     const date = new Date();
     const dateString = date.toTimeString().split(' G')[0];
     const time = dateString.split(':');
-    const hours = time[0];
-    const minutes = time[1]; 
-    const seconds = time[2];
+    let hours = time[0];
+    let minutes = time[1]; 
+    let seconds = time[2];
 
     seconds = parseInt(seconds) + 1;
     minutes = parseInt(minutes);
